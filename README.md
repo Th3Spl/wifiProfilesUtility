@@ -5,7 +5,7 @@ This file MUST be compiled by the user
 
 This script can help you to find the password for your wifi if you forget it.
 
-Added multiple languages. [ONE FILE IS ENOUGH CHOOSE THE LANGUAGE YOU'RE CONFORTABLE WITH]
+Added multiple languages. ONE FILE IS ENOUGH CHOOSE THE LANGUAGE YOU'RE CONFORTABLE WITH
 
 DISCLAIMER:
 
